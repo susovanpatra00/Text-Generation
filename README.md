@@ -1,7 +1,3 @@
-Based on the content of the Jupyter notebook file, I'll create a `README.md` file that explains the project. Here's a draft for the README:
-
----
-
 # Text Generation Using SimpleRNN
 
 This project demonstrates text generation using a Simple Recurrent Neural Network (SimpleRNN) implemented with TensorFlow and Keras. The dataset used is a text file (`Book.txt`), which is processed and used to train the RNN model to generate new text sequences.
